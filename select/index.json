@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "niKu 'シオン' Official Music Video",
+  "base_artist": "niKu",
+  "createdAt": "2026-03-15T14:47:58.848079Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sushi (feat. Aron & Niku)",
+      "artist": "MGK666",
+      "has_synced": true,
+      "path": "select/01_Sushi_(feat._Aron_&_Niku)_MGK666.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "M6MGK feat. Aron & Niku - Sushi (Official Audio)",
+      "artist": "MGK666",
+      "has_synced": true,
+      "path": "select/02_M6MGK_feat._Aron_&_Niku_-_Sushi_(Official_Audio)_MGK666.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sushi (cu Aron și Niku)",
+      "artist": "MGK666",
+      "has_synced": true,
+      "path": "select/03_Sushi_(cu_Aron_și_Niku)_MGK666.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sare (feat. Niku)",
+      "artist": "IDK",
+      "has_synced": false,
+      "path": "select/04_Sare_(feat._Niku)_IDK.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nu e Cef (feat. Niku)",
+      "artist": "Aron Patron",
+      "has_synced": true,
+      "path": "select/05_Nu_e_Cef_(feat._Niku)_Aron_Patron.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tabara (feat. Petre Stefan, Aron & Niku)",
+      "artist": "YNY Sebi",
+      "has_synced": true,
+      "path": "select/06_Tabara_(feat._Petre_Stefan,_Aron_&_Niku)_YNY_Sebi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "M6MGK feat. Aron & Niku - Sushi (Official Audio)",
+      "artist": "MGK666",
+      "has_synced": true,
+      "path": "select/07_M6MGK_feat._Aron_&_Niku_-_Sushi_(Official_Audio)_MGK666.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CEF 2 (feat. Niku X Aron)",
+      "artist": "YNY Sebi",
+      "has_synced": true,
+      "path": "select/08_CEF_2_(feat._Niku_X_Aron)_YNY_Sebi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sare (cu Niku)",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/09_Sare_(cu_Niku)_IDK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "IDK -Sare (feat. Niku)",
+      "artist": "idk",
+      "has_synced": true,
+      "path": "select/10_IDK_-Sare_(feat._Niku)_idk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tabara (feat. Petre Stefan, Aron & Niku)",
+      "artist": "YNY Sebi",
+      "has_synced": true,
+      "path": "select/11_Tabara_(feat._Petre_Stefan,_Aron_&_Niku)_YNY_Sebi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CEF 2 (feat. Niku X Aron)",
+      "artist": "YNY Sebi",
+      "has_synced": false,
+      "path": "select/12_CEF_2_(feat._Niku_X_Aron)_YNY_Sebi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tabara (feat. Petre Stefan, Aron & Niku)",
+      "artist": "YNY Sebi",
+      "has_synced": false,
+      "path": "select/13_Tabara_(feat._Petre_Stefan,_Aron_&_Niku)_YNY_Sebi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "シオン",
+      "artist": "沢田聖子",
+      "has_synced": false,
+      "path": "select/14_シオン_沢田聖子.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "シオン",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/15_シオン_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "シオン - Sion",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/16_シオン_-_Sion_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "シオン (Ngyn Remix) - SACRA BEATS Singles",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/17_シオン_(Ngyn_Remix)_-_SACRA_BEATS_Singles_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "シオン",
+      "artist": "Goose house",
+      "has_synced": true,
+      "path": "select/18_シオン_Goose_house.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "シオン",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/19_シオン_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "シオン",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/20_シオン_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "シオン",
+      "artist": "Plastic Tree",
+      "has_synced": true,
+      "path": "select/21_シオン_Plastic_Tree.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "シオン - Sion (feat. isui)",
+      "artist": "Islet",
+      "has_synced": true,
+      "path": "select/22_シオン_-_Sion_(feat._isui)_Islet.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "シオン",
+      "artist": "紫咲シオン",
+      "has_synced": false,
+      "path": "select/23_シオン_紫咲シオン.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "シオン / Sion",
+      "artist": "Myuk",
+      "has_synced": true,
+      "path": "select/24_シオン___Sion_Myuk.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "シオン (Shion)",
+      "artist": "Plastic Tree",
+      "has_synced": true,
+      "path": "select/25_シオン_(Shion)_Plastic_Tree.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "シオン／Shion",
+      "artist": "紫咲シオン (Murasaki Shion)",
+      "has_synced": true,
+      "path": "select/26_シオン_Shion_紫咲シオン_(Murasaki_Shion).lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "シオン／Shion",
+      "artist": "紫咲シオン",
+      "has_synced": true,
+      "path": "select/27_シオン_Shion_紫咲シオン.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "シオン",
+      "artist": "LAST ALLIANCE",
+      "has_synced": false,
+      "path": "select/28_シオン_LAST_ALLIANCE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シオン",
+      "artist": "niKu",
+      "has_synced": false,
+      "path": "select/pl_01_シオン_niKu.txt"
+    }
+  ]
+}
